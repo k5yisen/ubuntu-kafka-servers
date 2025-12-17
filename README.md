@@ -3,7 +3,7 @@
 Production-ready Apache Kafka 4.1.0 cluster with KRaft mode (no Zookeeper).
 
 ## Prerequisites
-- Docker Engine 24+
+- Docker Engine
 - [`go-task`](https://taskfile.dev/#/installation) to run the predefined automation in `Taskfile.yml`
 
 ## 🚀 Quick Start
